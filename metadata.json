@@ -1,0 +1,6 @@
+{
+  "name": "Deeba Ma'am's Classes",
+  "description": "Private tutoring institute offering academic excellence for Classes 1-10 and Advanced English coaching for Classes 11-12.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
